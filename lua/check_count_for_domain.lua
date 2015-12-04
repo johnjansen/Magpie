@@ -1,0 +1,1 @@
+redis.call( 'get', 'url_count:' .. KEYS[1] )

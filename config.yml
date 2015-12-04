@@ -1,0 +1,14 @@
+development:
+    redis:
+        host: localhost
+        port: 6379
+        db: 0
+    mongo:
+        host: localhost
+production:
+    redis:
+        host: localhost
+        port: 6379
+        db: 0
+    mongo:
+        host: rawr.analysis.int.com
